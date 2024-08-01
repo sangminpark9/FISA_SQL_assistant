@@ -102,7 +102,25 @@ def main():
         #print(FULL_PROMPT)
         st.code(answer)
         st.write(answer_df)
-        
-        
+        st.markdown(
+        """
+        <style>
+        .image-container {
+            display: flex;
+            justify-content: flex-end;
+            margin: 20px;
+        }
+        .image-container img {
+            width: 150px;  /* 원하는 너비로 조정 */
+            height: auto;
+        }
+        </style>
+        <div class="image-container">
+            <img src="https://i.imgur.com/2LvOspG.gif" alt="My Image">
+        </div>
+        """,
+        unsafe_allow_html=True
+        )
+
 if __name__ == "__main__":
     main()

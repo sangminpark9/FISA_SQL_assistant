@@ -1,12 +1,6 @@
-pymysql
 streamlit
 pandas
-matplotlib 
-plotly
-openpyxl
-html5lib
+pymysql
 sqlalchemy
 openai
 python-dotenv
-os
-re
