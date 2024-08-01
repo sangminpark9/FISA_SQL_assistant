@@ -4,7 +4,7 @@
 
 ### 제작한 사이트: 여행지 숙소 검색기
 
-![Main Image](sandbox:/mnt/data/Untitled.png)
+![이미지 1](https://ifh.cc/g/YKcV4d.jpg)
 
 ## 기능
 
@@ -15,9 +15,9 @@
 - ‘공용시설’, ‘부대시설’을 하나하나 체크해야 하는데, 리스트가 길고 많습니다.
 - 따라서, 원하는 것들만 한 줄로 입력할 수 있게 하면 UX적으로 편리할 것 같습니다.
 
-![Functionality Image](sandbox:/mnt/data/Untitled%201.png)
+![이미지 2](https://ifh.cc/g/AS4l84.jpg)
 
-![Another Feature](sandbox:/mnt/data/Untitled%202.png)
+![이미지 3](https://ifh.cc/g/saAXAG.jpg)
 
 ### 데이터 출처
 
@@ -34,7 +34,7 @@
 - **원인**: DB에 ‘제주’, ‘경기’로 저장되어 있었기 때문
 - **해결**: 
 
-![Solution Image](sandbox:/mnt/data/Untitled%203.png)
+![이미지 4](https://ifh.cc/g/P8MMDl.jpg)
 
     - assistant라는 파라미터를 추가로 사용했습니다.
     - **assistant란?**
@@ -64,9 +64,9 @@
 
 ### 2. 원본 DB에 부족한 정보를 크롤링하여 DB에 추가하기
 
-![Data Crawling Image](sandbox:/mnt/data/Untitled%204.png)
+![이미지 5](https://ifh.cc/g/Gbx5MQ.jpg)
 
-![Additional Feature](sandbox:/mnt/data/Untitled%205.png)
+![이미지 6](https://ifh.cc/g/qyl68c.jpg)
 
 ### 3. 실시간 정보
 
