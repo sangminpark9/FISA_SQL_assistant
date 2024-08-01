@@ -1,0 +1,12 @@
+pymysql
+streamlit
+pandas
+matplotlib 
+plotly
+openpyxl
+html5lib
+sqlalchemy
+openai
+python-dotenv
+os
+re
